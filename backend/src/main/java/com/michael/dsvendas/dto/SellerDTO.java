@@ -13,7 +13,6 @@ public class SellerDTO implements Serializable {
 	public SellerDTO() {}
 	
 	public SellerDTO(long id, String name) {
-		super();
 		this.id = id;
 		this.name = name;
 	}
