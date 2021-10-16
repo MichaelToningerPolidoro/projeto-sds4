@@ -1,4 +1,4 @@
-<h1 align="center">:leaves: Semana spring react :leaves:</h1>
+<h1 align="center">:leaves: ⚛️ Semana spring react ⚛️ :leaves:</h1>
 
 ***
 
@@ -11,7 +11,7 @@
   
 ***
 
-## <a name="sobre">1. Sobre o evento :leaves:</a>
+## <a name="sobre">1. Sobre o evento :leaves: ⚛️</a>
   O evento "Semana Spring React" é uma semana de muita prática, com a finalidade
   de desenvolver o backend e frontend de uma aplicação do zero, além de realizar
   essa integração.
