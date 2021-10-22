@@ -23,6 +23,8 @@
   apresentam a taxa de sucesso de vendas de determinados vendedores em um período
   de tempo.
   
+  A aplicação está hospedada [AQUI](https://dsvendas-michaeltp.netlify.app/).
+  
   <br/><br/>[Voltar ao índice](#indice)
   
 ## <a name="dias-evento">3. Dias do evento :bookmark_tabs:</a>
