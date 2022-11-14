@@ -20,4 +20,6 @@
 
 ### ONDE ESTÁ HOSPEDADO :cloud:
   - O projeto está hospedado no netlify, uma plataforma ótima para deploy de sites
-  O projeto frontend está hospedado [aqui](https://dsvendas-michaeltp.netlify.app/)
+  O projeto frontend está hospedado [aqui](https://dsvendas-michaeltp.netlify.app/), 
+  porém o backend da aplicação não está funcional até o momento :confused: devido a
+  alterações na plataforma Heroku.
