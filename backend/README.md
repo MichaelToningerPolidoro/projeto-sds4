@@ -22,7 +22,4 @@
   - Interface Serializable
 
 ### ONDE ESTÁ HOSPEDADO :cloud:
-  - O projeto está hospedado no Heroku, como nesse local de hospedagem as aplicações
-	  inativas "adormecem", pode demorar um pouco para ser iniciada no primeiro momento
-    
-  A aplicação está hospedado [aqui](https://sds4-michaeltp.herokuapp.com/)
+  A aplicação não está mais hospedada :confused: pois "não existirá" mais o plano grátis do Heroku.
